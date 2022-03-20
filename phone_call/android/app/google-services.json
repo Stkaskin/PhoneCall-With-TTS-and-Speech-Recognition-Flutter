@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047841825243",
+    "project_id": "f-app-01",
+    "storage_bucket": "f-app-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047841825243:android:831e3458306f081ba687fe",
+        "android_client_info": {
+          "package_name": "com.example.phone_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047841825243-590ovoi4nkr6jlr3jh4msdfvd234g598.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2pNmTcDWAITVenwKz6T4e5VewFJRco0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047841825243-590ovoi4nkr6jlr3jh4msdfvd234g598.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
